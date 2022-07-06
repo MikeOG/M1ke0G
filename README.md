@@ -7,7 +7,7 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=M1ke0G&style=for-the-badge&color=lightgrey"/></a>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/M1ke0G/M1ke0G/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/M1ke0G/M1ke0G/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 https://discord.gg/KKGJbJA
 
@@ -41,3 +41,14 @@ https://discord.gg/KKGJbJA
 ![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)
 ![mongodb](https://img.shields.io/badge/mongodb-black?style=flat-square&logo=mongodb)
 ![mysql](https://img.shields.io/badge/mysql-black?style=flat-square&logo=mysql)
+
+
+## ⚡ GitHub Stats
+
+<p align="center">
+    <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=M1ke0Gs&hide_border=true&theme=dark" />
+    <img height="120px" src="https://github-readme-stats.vercel.app/api?username=M1ke0G&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" />
+    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1ke0Gs&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
+</p>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=M1ke0G&theme=onedark&column=-1)

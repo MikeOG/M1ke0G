@@ -8,7 +8,6 @@
 </p>
 
 ![snake gif](https://github.com/M1ke0G/M1ke0G/blob/output/github-contribution-grid-snake.gif)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 ## 🚀 Technologies & Tools
 

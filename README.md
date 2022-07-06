@@ -3,11 +3,10 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2FM1ke0G"/></a>
   <a href="https://github.com/M1ke0G?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/M1ke0G?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/M1ke0G/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=M1ke0G&style=for-the-badge&color=lightgrey"/></a>
+  <a href="https://github.com/Don-Cryptus/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Don-Cryptus&style=for-the-badge&color=lightgrey"/></a>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/M1ke0G/M1ke0G/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/M1ke0G/M1ke0G/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 https://discord.gg/KKGJbJA
 

@@ -7,9 +7,6 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=M1ke0G&style=for-the-badge&color=lightgrey"/></a>
 </p>
 
-
-https://discord.gg/KKGJbJA
-
 ## 🚀 Technologies & Tools
 
 ### Languages

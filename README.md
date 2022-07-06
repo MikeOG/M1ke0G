@@ -9,6 +9,8 @@
 
 ![snake gif](https://github.com/M1ke0G/dedi-fire-fivem/blob/output/github-contribution-grid-snake.gif)
 
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 ![alt text](https://cdn.discordapp.com/attachments/698712017216864257/994079713322606612/Untitled.png)
 
 ## 🚀 Technologies & Tools

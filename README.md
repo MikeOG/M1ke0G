@@ -7,6 +7,7 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=M1ke0G&style=for-the-badge&color=lightgrey"/></a>
 </p>
 
+![snake gif](https://github.com/M1ke0G/M1ke0G/blob/output/github-contribution-grid-snake.gif)
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 ## 🚀 Technologies & Tools

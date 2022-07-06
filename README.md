@@ -8,7 +8,6 @@
 </p>
 
 ![snake gif](https://github.com/M1ke0G/dedi-fire-fivem/blob/output/github-contribution-grid-snake.gif)
-https://skyline.github.com/M1ke0G/2022
 
 ## 🚀 Technologies & Tools
 

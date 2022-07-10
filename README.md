@@ -11,7 +11,7 @@
 
 ![alt text](https://cdn.discordapp.com/attachments/698712017216864257/994079713322606612/Untitled.png)
 
-Looking for work to be done? Send me a dm on discord M1keOG#0392
+Full Stack Developer for hire Send me a dm on discord M1keOG#0392
 
 ## 🚀 Technologies & Tools
 

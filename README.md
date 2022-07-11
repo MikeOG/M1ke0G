@@ -9,12 +9,11 @@
 
 ![snake gif](https://github.com/M1ke0G/dedi-fire-fivem/blob/output/github-contribution-grid-snake.gif)
 
-Hello, folks! 
-wave.gif
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-Full Stack Developer for hire Send me a dm on discord M1keOG#0392
+My name is Mike, I'm a Full Stack Developer for hire Send me a dm on discord M1keOG#0392
 
-## 🚀 Technologies & Tools
+## 🔧 Technologies & Tools
 
 ### Languages
 
@@ -46,7 +45,7 @@ Full Stack Developer for hire Send me a dm on discord M1keOG#0392
 ![mysql](https://img.shields.io/badge/mysql-black?style=flat-square&logo=mysql)
 
 
-## ⚡ GitHub Stats
+## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/M1ke0G/M1ke0G">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1ke0G&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />

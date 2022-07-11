@@ -9,6 +9,9 @@
 
 ![snake gif](https://github.com/M1ke0G/dedi-fire-fivem/blob/output/github-contribution-grid-snake.gif)
 
+Hello, folks! 
+wave.gif
+
 Full Stack Developer for hire Send me a dm on discord M1keOG#0392
 
 ## 🚀 Technologies & Tools

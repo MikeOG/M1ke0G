@@ -51,19 +51,6 @@ Full Stack Developer for hire Send me a dm on discord M1keOG#0392
     <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1ke0G&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=M1ke0G&theme=onedark&column=-1)
-
-
-
-
-
-
-
-
-
-
-
-
 
 <a href="https://github.com/M1ke0G/M1ke0G">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1ke0G&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -72,3 +59,5 @@ Full Stack Developer for hire Send me a dm on discord M1keOG#0392
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=M1ke0G&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
+
+![trophy](https://github-profile-trophy.vercel.app/?username=M1ke0G&theme=onedark&column=-1)

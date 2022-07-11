@@ -24,7 +24,6 @@ My name is Mike, I'm a Full Stack Developer for hire send me a dm on discord M1k
 ![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
 ![lua](https://custom-icon-badges.herokuapp.com/badge/lua-black.svg?logo=lua&logoColor=blue)
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
-![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
 
 ### Technologies & Frameworks
 

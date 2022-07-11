@@ -45,13 +45,6 @@ Full Stack Developer for hire Send me a dm on discord M1keOG#0392
 
 ## ⚡ GitHub Stats
 
-<p align="center">
-    <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=M1ke0G&hide_border=true&theme=dark" />
-    <img height="120px" src="https://github-readme-stats.vercel.app/api?username=M1ke0G&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" />
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1ke0G&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
-</p>
-
-
 <a href="https://github.com/M1ke0G/M1ke0G">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1ke0G&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>

@@ -9,8 +9,6 @@
 
 ![snake gif](https://github.com/M1ke0G/dedi-fire-fivem/blob/output/github-contribution-grid-snake.gif)
 
-![alt text](https://cdn.discordapp.com/attachments/698712017216864257/994079713322606612/Untitled.png)
-
 Full Stack Developer for hire Send me a dm on discord M1keOG#0392
 
 ## 🚀 Technologies & Tools

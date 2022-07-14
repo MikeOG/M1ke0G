@@ -11,7 +11,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Mike, I'm a Full Stack Developer for looking send me a dm on discord M1keOG#0392
+My name is Mike, I'm a Full Stack Developer, looking for things to do send me a DM on discord with offers. M1keOG#0392
 
 ## 🔧 Technologies & Tools
 

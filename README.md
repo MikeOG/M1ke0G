@@ -11,7 +11,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Mike, I'm a Full Stack Developer, currently working on [EchoRP](https://echorp.net/), [OtterBot](https://top.gg/bot/1013833567631065129).
+I am currently working on [EchoRP](https://echorp.net/), [OtterBot](https://top.gg/bot/1013833567631065129).
 
 ## 🔧 Technologies & Tools
 

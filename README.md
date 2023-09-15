@@ -7,7 +7,12 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=MikeOG&style=for-the-badge&color=lightgrey"/></a>
 </p>
 
-![snake gif](https://github.com/MikeOG/dedi-fire-fivem/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/MikeOG/dedi-fire-fivem/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 

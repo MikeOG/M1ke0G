@@ -16,7 +16,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-I am currently working on [EchoRP](https://echorp.net/), [OtterBot](https://top.gg/bot/1013833567631065129).
+I am currently working on [OtterBot](https://top.gg/bot/1013833567631065129).
 
 ## 🔧 Technologies & Tools
 
